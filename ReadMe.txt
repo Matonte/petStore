@@ -1,10 +1,10 @@
-Some commands:
+command list:
+ curl -i http://localhost:8080/
 
-
-/petStore/
+petStore/
           /customer
                    /{name} 
           		   /all
           /pets   
                     /{name}
-          		   /all
+          		    /allpets
