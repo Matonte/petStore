@@ -12,8 +12,8 @@ INSERT INTO customerdemo (customerID,owns) VALUES ('Pepe','Kahlesi');
 CREATE TABLE petStore (
 	name varchar(20) NOT NULL,
 	species varchar(20) NOT NULL,
-	age integer NOT NULL ,
-	price integer NOT NULL,
+	age INT NOT NULL ,
+	price INT NOT NULL,
 	levelofcare varchar(20) 
 );
 
